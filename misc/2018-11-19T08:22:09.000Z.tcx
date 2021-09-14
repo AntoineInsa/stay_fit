@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+  xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd"
+  xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+  xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+  xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1">
+  <Activities>
+    <Activity Sport="Other">
+      <Id>2018-11-19T08:22:09.000Z</Id>
+        <Lap StartTime="2018-11-19T08:22:32.000Z">
+          <TotalTimeSeconds>240</TotalTimeSeconds>
+          <DistanceMeters>200</DistanceMeters>
+          <Intensity>Active</Intensity>
+          <TriggerMethod>Manual</TriggerMethod>
+        </Lap>
+        <Lap StartTime="2018-11-19T08:22:32.000Z">
+          <TotalTimeSeconds>60</TotalTimeSeconds>
+          <DistanceMeters>0</DistanceMeters>
+          <Intensity>Resting</Intensity>
+          <TriggerMethod>Manual</TriggerMethod>
+        </Lap>
+        <Lap StartTime="2018-11-19T08:27:55.000Z">
+          <TotalTimeSeconds>1200</TotalTimeSeconds>
+          <DistanceMeters>1000</DistanceMeters>
+          <Intensity>Active</Intensity>
+          <TriggerMethod>Manual</TriggerMethod>
+        </Lap>
+        <Lap StartTime="2018-11-19T08:27:55.000Z">
+          <TotalTimeSeconds>60</TotalTimeSeconds>
+          <DistanceMeters>0</DistanceMeters>
+          <Intensity>Resting</Intensity>
+          <TriggerMethod>Manual</TriggerMethod>
+        </Lap>
+    </Activity>
+  </Activities>
+</TrainingCenterDatabase>
